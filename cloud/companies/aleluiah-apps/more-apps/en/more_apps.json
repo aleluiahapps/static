@@ -1,0 +1,232 @@
+[
+
+{
+        "name": "The Holy Bible",
+        "image": "https://lh3.googleusercontent.com/InW9jJSOwuuR6vlfqWFd4EuH9GAAkZrxcPeh66sytpKU9KAeUKkJPrfiUy3WCb2Z3t8=s200",
+        "description": "Transform your life and have on your Android the most read and sold book of all time!",
+        "package": "br.com.aleluiah_apps.bibliasagrada.almeida"
+    }
+	,
+
+	{
+        "name": "Holy Bible for Woman Offline",
+        "image": "https://lh3.googleusercontent.com/X3AnGskfD7TABvXaWesu72uW9DLJt96TsoWevuxBqcVfvM_s0lUM2yY95D-CkWdoK1u7=s200",
+        "description": "It was never been so easy, quick, enjoyable and practical to read and study the Holy Bible!",
+        "package": "br.com.aleluiah_apps.bibliasagrada.feminina"
+    },
+	
+	{
+        "name": "Study Bible - Special Edition",		
+        "image": "https://lh3.googleusercontent.com/W9diQMTHzY3l5dM94PWU3thzHsCY2inEu_mRiZ_MuQCsT8IupWoWU9nKre9T-_CXIG4=s200",
+        "description": "Transform your life and have on your Android the most read and sold book of all time!",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.feminino.br"
+    },
+
+	
+	
+	
+	
+
+
+	{
+        "name": "The Holy Bible for Study",
+        "image": "https://lh3.googleusercontent.com/6saf9GNrLUUv89Ei6oZvxdy-X_fodQo2Dnxy9DaJ8Zfjkr-p41s4KZuluWQyJ6Frvw=w200",
+        "description": "The Holy Bible for Study.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.en"
+    },
+	
+	
+	
+	
+	
+	{
+        "name": "The Holy Bible for Woman",
+        "image": "https://lh3.googleusercontent.com/V1zSASRO-1wBt0EL_YWWh1a_KLsDSkO3YG93vniEIM2iKWksORbysc0UYzuvscYnzCE=w200",
+        "description": "The Holy Bible for Woman.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.en_woman"
+    },
+
+	{
+        "name": "The Holy Bible Offline",
+        "image": "https://lh3.googleusercontent.com/_rfSHVngw_6cLROqlv64cZ1IYT9Rwfb_mxfx6146I_uugLQp2Mdx3lAdQRyKiDNTHFoh=w200",
+        "description": "The Holy Bible Offline.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.offline_en"
+    },
+
+	{
+        "name": "The Holy Bible Offline for Woman",
+        "image": "https://lh3.googleusercontent.com/pXVqEzXnPZK2hfuH_cMZ249K_8PZGzhZVe836Cc1P8YjvPOQqtUw1K5aRk7FBrDZDZ4=h200",
+        "description": "The Holy Bible Offline for Woman.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.offline_en_woman"
+    },
+
+
+	
+	
+
+
+	
+	
+	
+	{
+        "name": "Holy Bible for Woman",
+        "image": "https://lh3.googleusercontent.com/cGyN_7fJ5juYGnLjqQYq4q7NN3DRO0oiZc1-SaFsmgUNGdLpQ0UcVmfP4EBceSbW1j4O=w200",
+        "description": "Holy Bible for Woman app for Android devices.",
+        "package": "br.com.tunglabs.bibliasagrada.kjv.women"
+    },
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+        "name": "Bible Dictionary for Woman",
+        "image": "https://lh3.googleusercontent.com/KH8H1NewfeX_o71hQkDwks9bxGcwWP_HqTWQLb9-9dyFtoZMJtk-vg0yAJrur4kKdhg=w200",
+        "description": "The Bible Dictionary for woman.",
+        "package": "br.com.aleluiah_apps.dicionario_biblico_feminino.en"
+    },	
+
+	
+	
+	{
+        "name": "Holy Bible",
+        "image": "https://lh3.googleusercontent.com/R-3VUpvIKwdlzOmYOsPLmCF3cgVihMJyzT6wz3Jrz36kZ-6PUyto4K26GahVQPxzyw=w200",
+        "description": "Holy Bible for Android.",
+        "package": "br.com.tunglabs.bibliasagrada.kjv"
+    },
+
+	
+	{
+        "name": "Bible Promise Box",
+        "image": "https://lh3.googleusercontent.com/BK3BbNDPZqvj6OHNxNH9E9ei6yb8-YsJPo_WpzPEk2f-B376RZ5regmRgjMtcL6oPA=w200",
+        "description": "This beautiful and easy to use app will give you a new verse from the Holy Bible. ",
+        "package": "br.com.aleluiah_apps.caixinha.promessas.en"
+    },
+
+	{
+        "name": "The Bible Dictionary",
+        "image": "https://lh3.googleusercontent.com/KH8H1NewfeX_o71hQkDwks9bxGcwWP_HqTWQLb9-9dyFtoZMJtk-vg0yAJrur4kKdhg=w200",
+        "description": "The offline Bible Dictionary.",
+        "package": "br.com.aleluiah_apps.dicionario_biblico_feminino.en"
+    },	
+	
+
+	{
+        "name": "Bible Verse of the Day",
+        "image": "https://lh3.googleusercontent.com/eO52rHJEj2xkkYHqWQoeClzrp7eWW51HcwzW5ZBwrpiFZtruYjKrpJGiGslXasGG48Y=w200",
+        "description": "This app delivers a new word of God directly to your android device every day in a simple and intuitive layout.",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.en"
+    },
+
+	{
+        "name": "Biblical Names with meanings",
+        "image": "https://lh3.googleusercontent.com/g-GFxKAiJO3n7jPjn_nQUAdbDEK_fiIFzdJl5zamYzU7H4V3ZHTnoEgxZopZophyNQ=w200",
+        "description": "Find out the meaning of biblical names through this application.",
+        "package": "br.com.aleluiah_apps.dicionario_nomes_biblico.en"
+    },
+
+
+	{
+        "name": "The Bible Dictionary",
+        "image": "https://lh3.googleusercontent.com/vVNi1EtokAbN7ErpcNuIAW6ORg1Tkb4BU7rPmmfSeFeFdLpij9wMFeTcPifYySm0DrQ=w200",
+        "description": "The offline Bible Dictionary.",
+        "package": "br.com.aleluiah_apps.dicionario_biblico.en"
+    },	
+	
+	{
+        "name": "Verse of the Day",
+        "image": "https://lh3.googleusercontent.com/BdEtu0-izsOg7MYFjz0GxlR-NYMXT6mxnGAFPdEBHvpOD6x-DuDojDbxgW1lS8t6HOE=w200",
+        "description": "This app delivers a new word of God directly to your android device every day in a simple and intuitive layout.",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.feminino.en"
+    },
+	
+
+	{
+        "name": "Daily Bible Verses",
+        "image": "https://lh6.ggpht.com/hIdYHSBL9GLpoHD2H_x-TzM2fjhpHZmIlq7n3AKcKAit_fEZqvtb-FcOXMmWOd6J3fk4=w200",
+        "description": "Have instant access to hundreds of key Bible verses and share them through this great app.",
+        "package": "br.com.tunglabs.mensagem.biblica.orvalho.lite.english"
+	},	
+
+	{
+        "name": "Biblical Self Help",
+        "image": "https://lh3.ggpht.com/Ty73mAMTafatAvfkQzF9ZRJbfY042TI1Xu-m0KGS6Hbv1i18g8DtG8goFqB2tllSpDw=w200",
+        "description": "Through the application of Self-Help Bible, you can have access to a word of peace and comfort for the moments of doubts, problems and difficulties.",
+        "package": "br.com.android.ajudabiblica.lite.en"
+	},	
+
+	{
+        "name": "Daily Biblical Meditations",
+        "image": "https://lh4.ggpht.com/zqz2SrStwbSsUFiaMCjDUVJzhNfI7tCTWHHE6S0ZtPnKz_xxxAmo8eprP9xAqA=w200",
+        "description": "This app allow you to reflect on the teachings from each Bible verse and randomly generate a new message.",
+        "package": "br.com.tunglabs.reflexoes.biblica.lite.ingles"
+	},
+	
+	{
+        "name": "Bible Commentary",
+        "image": "https://lh3.googleusercontent.com/ECTldw2CJZzdWDLQHIvNWLzlWem9l8vSSDPH1aWR_VLRjdpsPqUMm_bbEMGQh_pgp_g=w200",
+        "description": "The offline Bible Commentary for Android.",
+        "package": "br.com.aleluiah_apps.comentarios_biblicos.en"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+        "name": "Santa Biblia Reina Valera",
+        "image": "https://lh3.googleusercontent.com/_KuZXUahBy87dAQogMim3vPgZkZwu7RNCb_MZGI4nkBHstYGK9WR0ovapFVVesmtlAg=w200",
+        "description": "Santa Biblia Reina Valera offline para Android.",
+        "package": "br.com.tunglabs.bibliasagrada.reinavalera"
+    },
+
+	{
+        "name": "Santa Biblia para la Mujer",
+        "image": "https://lh6.ggpht.com/ZzXaBZpr38y2Y_DJUWNx4GN9ILvH0tb4U1XJTcqb6_PydWojPW8qCKEz9otPxZ3HIA=w200",
+        "description": "Santa Biblia para la muyjer en español",
+        "package": "br.com.tunglabs.bibliasagrada.reinavalera.mujer"
+    },
+
+	{
+        "name": "Reflexiones Bíblicas",
+        "image": "https://lh4.ggpht.com/xbhMQXDzFUqMpgxcIIzCApY1nfx-9PfjxWBYCkkfAu-Gy972ntuBife5O1vy=w200",
+        "description": "Con esta aplicación, se puede reflexionar sobre las enseñanzas de cada versículo de la Biblia al azar y generar un nuevo mensaje.",
+        "package": "br.com.tunglabs.reflexoes.biblica.lite.espanhol"
+	},	
+
+	{
+        "name": "Auto-Ayuda Bíblica",
+        "image": "https://lh3.ggpht.com/MvVsIOGnjlW162AWn5Q3mIf0ik5si1lx9_mCPnH29_2ta9FKrnAvMxQyb0fM6VJV2PXk=w200",
+        "description": "A través de la aplicación de la Biblia de Auto-Ayuda, puede tener acceso a una palabra de paz y confort para los momentos de dudas, problemas y dificultades.",
+        "package": "br.com.android.ajudabiblica.lite.es"
+	},	
+
+	{
+        "name": "Rocío Mensaje Bíblico",
+        "image": "https://lh6.ggpht.com/-2EV3jGdzaNEjJGFkPOv4yP0MY-MvM9oCAWHZFAca_3ZD3WnWqEyDGZmJ8ua341-fUE=w200",
+        "description": "Tener acceso instantáneo a los principales versículos de la Biblia y compartir a través de correo electrónico, Bluetooth, Twitter o WhatsApp.",
+        "package": "br.com.tunglabs.mensagem.biblica.orvalho.lite.espanhol"
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+    ]

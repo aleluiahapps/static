@@ -1,0 +1,23 @@
+[
+	{
+		"private_policy_bible_from_date": "21/02/2020",
+		"private_policy_bible_version":"1.0",
+		"private_policy_bible_url":"https://sites.google.com/view/aleluiah-apps-privacy-policy/",
+		"private_policy_bible_previous_url" : {
+			"0.5" : "https://sites.google.com/view/aleluiah-apps-privacy-policy/",
+			"0.4" : "https://sites.google.com/view/aleluiah-apps-privacy-policy/"
+		}
+
+    },
+	
+	{
+		"private_policy_quote_from_date" : "19/02/2020",
+		"private_policy_quote_version" : "1.0",
+		"private_policy_quote_url" : "https://sites.google.com/view/aleluiah-apps-privacy-policy/",
+		"private_policy_quote_previous_url" : {
+			"0.5" : "https://sites.google.com/view/aleluiah-apps-privacy-policy/",
+			"0.4" : "https://sites.google.com/view/aleluiah-apps-privacy-policy/"
+		}
+	}
+
+]

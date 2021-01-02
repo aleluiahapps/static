@@ -1,0 +1,72 @@
+[
+  {
+    "table-name": "hinos_cantor_cristao",
+    "dictionary-app-name": "Cantor Cristão",
+    "icon": "icon-object",
+    "show-title-numbers": "true",
+    "show-title": "false",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "true",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "true"
+  },
+  {
+    "table-name": "hinos_culto_cristao",
+    "dictionary-app-name": "Culto Cristão",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "true",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "true"
+  },
+  {
+    "table-name": "hinos_novo_cantico",
+    "dictionary-app-name": "Novo Cântico",
+    "icon": "icon-object",
+    "show-title-numbers": "true",
+    "show-title": "false",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "true",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "true"
+  },
+  {
+    "table-name": "hinos_metodista",
+    "dictionary-app-name": "Metodista",
+    "icon": "icon-object",
+    "show-title-numbers": "true",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "true",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "true"
+  },
+  {
+    "table-name": "hinos_harpa_crista",
+    "dictionary-app-name": "Harpa Cristã",
+    "icon": "icon-object",
+    "show-title-numbers": "true",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "true",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "true"
+  }
+]

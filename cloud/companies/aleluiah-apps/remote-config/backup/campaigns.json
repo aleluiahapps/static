@@ -1,0 +1,43 @@
+[
+	{
+		
+		"campaign-to-package": "all",
+		"campaign-date": "19/02/2020",
+		"campaign-active" : "false", 		
+		"campaign-for-package": "br.com.tunglabs.bibliasagrada.mulher",
+		
+		"campaign-name-br": "Bíblia de Estudo Edição Especial",		
+        "campaign-image-url-br": "https://lh3.googleusercontent.com/jkVswDEk4ViQoD1EMv1rcPgkRcHTQm-X6abOagq7YhNu6JZ15XOPxIXaMql10fPPQg=s180",
+        "campaign-description-br": "Baixe este aplicativo agora.",
+        
+		"campaign-name-en": "Study Bible - Special Edition",		
+        "campaign-image-url-en": "https://lh3.googleusercontent.com/W9diQMTHzY3l5dM94PWU3thzHsCY2inEu_mRiZ_MuQCsT8IupWoWU9nKre9T-_CXIG4=s180",
+        "campaign-description-en": "Download this app Now.",
+    
+		"campaign-name-es": "Biblia de Estudio - Edición Especial",		
+        "campaign-image-url-es": "https://lh3.googleusercontent.com/r5GMe0QffogiL9QYnA2Db-4bez6rhgRZ1z9ccFbPbNeqE1OaCeAGwB2O-gddeggpnJw=s180",
+        "campaign-description-es": "Descarga esta aplicación ahora"
+
+    },
+	
+	{
+		"campaign-to-package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		"campaign-date": "19/02/2020",
+		"campaign-active" : "true", 
+		"campaign-for-package": "br.com.aleluiah_apps.bibliasagrada.nvi",
+		
+		"campaign-name-br": "Bíblia Almeida",		
+        "campaign-image-url-br": "https://lh3.googleusercontent.com/N5uKztOwGTFcrcK-OwEmD41nWdNBjru5Sve8f4UgusZKoMw_QByUvOjeRwuYJGAOvLk=s180",
+        "campaign-description-br": "Baixe este aplicativo agora.",
+        
+		"campaign-name-en": "Holy Bible in English for Android",		
+        "campaign-image-url-en": "https://lh3.googleusercontent.com/LzHp82vtVt58QVEX029xeU8eCTZNlr58J-JbRI0Yp91Q7XyTf2g6hcx1kFw5PUJYzcDi=s180",
+        "campaign-description-en": "Download this app Now.",
+    
+		"campaign-name-es": "Santa Biblia en Español",		
+        "campaign-image-url-es": "https://lh3.googleusercontent.com/hF3oRqEcvf_F0v4o2kQc7fbDet5rmDbcpJehuN31a6DdHCSmDjUPm53HEIMPSC9TPOTU=s180",
+        "campaign-description-es": "Descarga esta aplicación ahora"
+
+    }
+
+]

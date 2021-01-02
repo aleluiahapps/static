@@ -1,0 +1,277 @@
+[
+	{
+		"category":"highlights",
+		"json": "",
+		"image_resource": "",
+		"url-image": "http://aleluiahapps.com/cloud/companies/aleluiah-apps/games/quiz/images/highlights2.jpg",
+		"number-questions": "10",
+		"description": "Elige un dibujo para pintar",
+		"first-color": "",
+		"last-color": "",
+		"game": "coloring_book"
+	},
+	{
+		"category":"highlights",
+		"json": "",
+		"image_resource": "",
+		"url-image": "http://aleluiahapps.com/cloud/companies/aleluiah-apps/games/quiz/images/highlights3.jpg",
+		"number-questions": "10",
+		"description": "¡Elige un Rompecabezas y diviértete!",
+		"first-color": "",
+		"last-color": "",
+		"game": "jigsaw"
+	},
+	{
+		"category":"highlights",
+		"json": "",
+		"image_resource": "",
+		"url-image": "http://aleluiahapps.com/cloud/companies/aleluiah-apps/games/quiz/images/highlights4.jpg",
+		"number-questions": "10",
+		"description": "¡Aquí tienes varios dibujos para que pintes!",
+		"first-color": "",
+		"last-color": "",
+		"game": "coloring_book"
+	},
+	{
+		"category":"highlights",
+		"json": "",
+		"image_resource": "",
+		"url-image": "http://aleluiahapps.com/cloud/companies/aleluiah-apps/games/quiz/images/highlights6.jpg",
+		"number-questions": "10",
+		"description": "¿Vamos a montar el rompecabezas ahora? :)",
+		"first-color": "",
+		"last-color": "",
+		"game": "jigsaw"
+	},
+
+
+
+
+
+
+	{
+		"category":"word_search",
+		"json": "attributes_of_GOD_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Atributos de Dios",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		"category":"word_search",
+		"json": "bible_characters_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Personajes bíblicos",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		"category":"word_search",
+		"json": "bible_places_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Lugares Bíblicos",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		"category":"word_search",
+		"json": "books_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Libros de la Biblia",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		"category":"word_search",
+		"json": "minor_and_major_prophets_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Profetas Menores y Mayores",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		"category":"word_search",
+		"json": "apostol_christ_es.xml",
+		"image_resource": "word_search",
+		"url-image": "",
+		"number-questions": "11",
+		"description": "Apóstoles de Cristo",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+
+
+
+	{
+		"category":"others",
+		"json": "quiz-ot-easy-es.pdf",
+		"image_resource": "imagem_fundo_2",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Apóstolos de Jesus Cristo",
+		"first-color": "",
+		"last-color": "",
+		"game": "word_search"
+	},
+	{
+		
+		"category":"others",
+		"json": "quiz-ot-normal-es.pdf",
+		"image_resource": "imagem_fundo_6",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 1",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"others",
+		"json": "quiz-ot-hard-es.pdf",
+		"image_resource": "imagem_fundo_7",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz I",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"others",
+		"json": "quiz-nt-easy-es.pdf",
+		"image_resource": "imagem_fundo_12",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz I",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"others",
+		"json": "quiz-nt-normal-es.pdf",
+		"image_resource": "imagem_fundo_4",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz II",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"others",
+		"json": "quiz-nt-hard-es.pdf",
+		"image_resource": "imagem_fundo_13",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz III",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	
+	
+	
+	
+	
+	
+	{	
+		"category":"ot",
+		"json": "quiz-ot-easy-es.pdf",
+		"image_resource": "imagem_fundo_2",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 1",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"ot",
+		"json": "quiz-ot-normal-es.pdf",
+		"image_resource": "imagem_fundo_6",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 2",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"ot",
+		"json": "quiz-ot-hard-es.pdf",
+		"image_resource": "imagem_fundo_7",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 3",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		
+		"category":"nt",
+		"json": "quiz-nt-easy-es.pdf",
+		"image_resource": "imagem_fundo_12",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 1",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"nt",
+		"json": "quiz-nt-normal-es.pdf",
+		"image_resource": "imagem_fundo_4",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 2",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	},
+	{
+		
+		"category":"nt",
+		"json": "quiz-nt-hard-es.pdf",
+		"image_resource": "imagem_fundo_13",
+		"url-image": "",
+		"number-questions": "10",
+		"description": "Quiz 3",
+		"first-color": "",
+		"last-color": "",
+		"game": "quiz"
+	}
+]

@@ -1,0 +1,239 @@
+[
+
+
+
+
+
+
+
+  {
+    "radio": "Brilla FM",
+    "url": "http://mist.olivet.edu:8000/brilla128"
+  },
+  {
+    "radio": "Family Life Radio Network",
+    "url": "http://50.22.253.46:80/fln.mp3"
+  },
+  {
+    "radio": "Life FM 88.1",
+    "url": "http://50.22.253.46:80/klfc-fm"
+  },
+  {
+    "radio": "Radio Cántico Nuevo",
+    "url": "http://ph1.ministeriotv.com:8004/stream"
+  },
+  {
+    "radio": "Rádio Jesus",
+    "url": "http://198.178.123.20:7618/stream/1/"
+  },
+  {
+    "radio": "Radio Sagrado Corazon",
+    "url": "http://195.154.194.142:8743/"
+  },
+  {
+    "radio": "Red de Salvación Divina 105.5 FM",
+    "url": "http://198.15.86.218:9950/;"
+  },
+  {
+    "radio": "Shine FM",
+    "url": "http://mist.olivet.edu:8000/shine128"
+  },
+
+
+
+
+
+  {
+    "radio": "Hope FM",
+    "url": "http://50.22.253.45:80/hope-fm"
+  },
+  {
+    "radio": "Praise Austin - Urban Gospel Channel",
+    "url": "http://parn.praiseaustin.com:7229/1/"
+  },
+  {
+    "radio": "Gospel Truth Lessons",
+    "url": "http://s46.myradiostream.com:6826/listen.mp3"
+  },
+  {
+    "radio": "Gospel 91",
+    "url": "http://104.250.129.164:8020/;"
+  },
+  {
+    "radio": "WCS Gospel Radio",
+    "url": "http://stream.radio.co/s6819a83c9/listen"
+  },
+  {
+    "radio": "American Christian Network",
+    "url": "http://www.ophanim.net:9720/;"
+  },
+  {
+    "radio": "Word of Truth Radio",
+    "url": "http://199.189.86.22:80/;"
+  },
+  {
+    "radio": "God´s DJs",
+    "url": "http://godsdjsradio.com:8080/stream"
+  },
+  {
+    "radio": "Family Life Radio Network",
+    "url": "http://50.22.253.46:80/fln.mp3"
+  },
+  {
+    "radio": "Holy Spirit Radio",
+    "url": "http://162.244.80.33:9000/;"
+  },
+  {
+    "radio": "All Worship.com - Contemporany",
+    "url": "http://allworship.streamguys.org:80/contemporary"
+  },
+  {
+    "radio": "Gospel Truth Lessons",
+    "url": "http://s46.myradiostream.com:6826/listen.mp3 "
+  },
+  {
+    "radio": "Rejoice AM 1190",
+    "url": "http://50.7.77.114:8047/;"
+  },
+  {
+    "radio": "247 Praise Radio",
+    "url": "http://streaming.radio.co/s6da23ac69/listen"
+  },
+  {
+    "radio": "Praise Austin - Urban Gospel Channel",
+    "url": "http://parn.praiseaustin.com:7229/1/"
+  },
+  {
+    "radio": "The Bible Truth Radio",
+    "url": "http://streaming.radio.co/sed08666fa/listen "
+  },
+  {
+    "radio": "All Worship.com - Praise & Worship",
+    "url": "http://allworship.streamguys.org:80/praise"
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "radio": "Rádio Gospel Campinas",
+    "url": "http://centova.nardele.com.br:4343/stream.mp3"
+  },
+  {
+    "radio": "Rádio Atlanta FM Gospel",
+    "url": "http://stm11.srvstm.com:9038/;"
+  },
+  {
+    "radio": "Fonte FM",
+    "url": "http://radiocluster.info:8092/start/fonte"
+  },
+  {
+    "radio": "Rádio Sol Nascente",
+    "url": "http://centova3.fm5.com.br:5631"
+  },
+  {
+    "radio": "Rádio Gospel FM",
+    "url": "http://209.126.127.123:8607/live"
+  },
+  {
+    "radio": "Gospel FM 89.3",
+    "url": "http://209.126.127.123:8885/stream"
+  },
+  {
+    "radio": "Paz FM 89.5",
+    "url": "http://digital.umhost.com.br:9978/;"
+  },
+  {
+    "radio": "Boa Nova - A Rádio da Famlia",
+    "url": "http://servidor27.brlogic.com:8016/live"
+  },
+  {
+    "radio": "Rádio Sara Varginha",
+    "url": "http://server01.ouvir.radio.br:8000/stream"
+  },
+  {
+    "radio": "Rádio Hora da Paz",
+    "url": "http://servidor28.brlogic.com:8434/live"
+  },
+  {
+    "radio": "Rádio Atitude Gospel",
+    "url": "https://s14.hstbr.net:8044/live"
+  },
+  {
+    "radio": "Web Rádio Gospel",
+    "url": "http://streams.wrghost.com:9444/;"
+  },
+  {
+    "radio": "Rádio Gospel Hits",
+    "url": "http://hts01.kshost.com.br:8836/live"
+  },
+  {
+    "radio": "Rádio IBC",
+    "url": "http://servidor28.brlogic.com:8478/live"
+  },
+  {
+    "radio": "Rádio Perfeito Louvor",
+    "url": "http://www.perfeitolouvor.com.br:8004/"
+  },
+  {
+    "radio": "Rádio Fonte Viva",
+    "url": "http://streaming23.hstbr.net:8082/live"
+  },
+  {
+    "radio": "Nossa Rádio Gospel",
+    "url": "http://streaming11.maxcast.com.br:8110/live"
+  },
+  {
+    "radio": "89,9 Rádio Sintonia FM",
+    "url": "http://74.63.250.82:8480/live"
+  },
+  {
+    "radio": "Ágape Nordeste Web Radio",
+    "url": "http://server01.ouvir.radio.br:8070/stream"
+  },
+  {
+    "radio": "Rádio Estéreo Gospel",
+    "url": "http://srv.smghosting.com.br:31080"
+  },
+  {
+    "radio": "Rádio Verdade Online",
+    "url": "http://streaming14.hstbr.net:8156/live"
+  },
+  {
+    "radio": "Rádio Mensagem de Deus",
+    "url": "http://s04.hstbr.net:8006/live"
+  },
+  {
+    "radio": "Rádio Web Pentecostal",
+    "url": "http://216.245.220.173:8772/live"
+  },
+  {
+    "radio": "Rádio Transmissão de Glória",
+    "url": "http://streaming26.hstbr.net:8180/live"
+  },
+  {
+    "radio": "Web Radio Shalom",
+    "url": "http://stm1.srvstm.com:9022/live"
+  },
+  {
+    "radio": "Rádio Verdade Online",
+    "url": "http://streaming14.hstbr.net:8156/live"
+  },
+  {
+    "radio": "102 FM Gospel ",
+    "url": "http://servidor39.brlogic.com:8212/live"
+  },
+  {
+    "radio": "Boa Nova - A Rádio da Famlia",
+    "url": "http://servidor27.brlogic.com:8016/live"
+  }
+  
+]

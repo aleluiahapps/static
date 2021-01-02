@@ -1,0 +1,23 @@
+[
+	{
+		"package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		"facebook_interstitial" : "988209671564122_988228461562243",
+		"facebook_banner" : "988209671564122_988424341542655",
+		"facebook_medium_rectangle" : "988209671564122_988559838195772",
+		"admob_interstitial" : "ca-app-pub-7211947625477520/3420926293",
+		"admob_banner" : "ca-app-pub-7211947625477520/4436880092",
+		"admob_native" : "ca-app-pub-7211947625477520/3941675513"
+    },
+
+
+	{
+		"package": "",
+		"facebook_interstitial" : "",
+		"facebook_banner" : "",
+		"facebook_medium_rectangle" : "",
+		"admob_interstitial" : "",
+		"admob_banner" : "",
+		"admob_native" : ""
+    }
+
+]

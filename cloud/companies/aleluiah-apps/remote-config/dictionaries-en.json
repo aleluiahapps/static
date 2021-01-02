@@ -1,0 +1,59 @@
+[
+  {
+    "table-name": "dicionario_en",
+    "dictionary-app-name": "Bible Dictionary",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  },
+  {
+    "table-name": "nomes_Jesus_en",
+    "dictionary-app-name": "Names of Jesus",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  }
+  ,
+  {
+    "table-name": "milagres_Jesus_en",
+    "dictionary-app-name": "The Miracles of Jesus Christ",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  },  
+  {
+    "table-name": "dez_mandamentos_en",
+    "dictionary-app-name": "The Ten Commandments",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  }
+]

@@ -1,0 +1,522 @@
+﻿[
+
+	{
+        "name": "Harpa Cristã",
+        "image": "https://lh3.googleusercontent.com/n7DL1f6aPwkGa-TvcRTqakhWJZGfF683f3QXBterRK-bnE55-rvNT3vYF8E_496-Fg=w200",
+        "description": "Aplicativo Harpa Cristã completa, com mais de 600 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.harpa_crista"
+	},	
+
+	{
+        "name": "A Bíblia Feminina Completa",
+        "image": "https://lh3.googleusercontent.com/9lfiNlxKLna6QkfjKMge38hdzsSwYLwMDc8me-NAbJuIZkiXzQabJ0AUaUFe6KUEAM8=h200",
+        "description": "A Bíblia Sagrada mais bonita e completa dedicado às Mulheres. Contém o Pão Diário, Versículo do Dia, Rádios Evangélicas, Hinários, Mapas Bíblicos e dezenas de outros poderosos recursos para te incentivar a estudar a Palavra de Deus.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.feminina"
+    },
+	
+	{
+        "name": "Bíblia Sagrada Almeida + Harpa",
+        "image": "https://lh3.googleusercontent.com/I_1EAHEf4tk8FQWjVFXxQXezkFUxM47jJ2RZvc3cwldR7yqIOSWD2OdN0Pvg7enCAQ=h200",
+        "description": "A Bíblia Sagrada Almeida com a Harpa em português com vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.almeida"
+    },
+
+	
+	{
+        "name": "Bíblia de Estudos Especial",		
+        "image": "https://lh3.googleusercontent.com/jkVswDEk4ViQoD1EMv1rcPgkRcHTQm-X6abOagq7YhNu6JZ15XOPxIXaMql10fPPQg=h200",
+        "description": "Simplesmente imperdível!!! A Bíblia de Estudo mais completa para você estudar, ler, edificar a sua fé, fazer anotações e adorar a Deus em qualquer hora e qualquer lugar.",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.feminino.br"
+    },
+
+
+	
+	{
+        "name": "Bíblia Offline + Hinários",
+        "image": "https://lh3.googleusercontent.com/pag6BcWkN3UjJk2Ko8orw3YOW8AQ8UwtenGJ6iRB2ojfv9W8ilJznIOdis7ZQoCr9yE=s200",
+        "description": "A Bíblia Sagrada Offline e completa com diversos hinários (incluindo a Harpa Cristã) e vários poderosos recursos como: dicionários, mapas bíblicos, rádios gospels, versículos específicos para pregar e refletir.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.jfa"
+    },
+	
+	
+
+	
+	{
+        "name": "Bíblia da Mulher - Linguagem Atualizada",		
+        "image": "https://lh3.googleusercontent.com/DnKE7831gYm5iKX5X27hJglUHFQamrxgR9RCU5auMOUopJP9bpyLB2L66MRlZp0gVIU=w200",
+        "description": "A Bíblia da mulher com linguagem atualizada.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.mulher_ntlh"
+    },
+	
+	
+	{
+        "name": "Bíblia Sagrada NVI + Harpa",		
+        "image": "https://lh3.googleusercontent.com/1WKdhlr5fxInNYwWIRq8zmtEoaJOTXh3HPROLmutJSCtd0Xb-6ddfVSUY83MphF0LCia=h200",
+        "description": "A Bíblia Sagrada com a Harpa em português com vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.nvi"
+    },
+		
+
+	
+
+	
+	{
+        "name": "Bíblia da Mulher Almeida em MP3 + Harpa",
+        "image": "https://lh3.googleusercontent.com/-NJCqd8hee0NzP3FEhCMP_G7VyFiMOjVGz87i_5Fca13pK2RZr8KGxPhcUZPQ52F4NM=h200",
+        "description": "A Bíblia Sagrada Almeida com áudios em MP3 e Harpa Cristã em português com vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.mulher_almeida"
+    },
+
+
+
+	{
+        "name": "Bíblia Sagrada - Linguagem Atualizada",		
+        "image": "https://lh3.googleusercontent.com/y_4WXtd1ZXllddLa-6xoo_b2g8v3iR2UrdZoPX34n70I4mwWuArIa1OgjbrrmQttj0oQ=w200",
+        "description": "A versão simplificada e leve da Bíblia feminina em suas mãos.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.ntlh"
+    },
+
+
+
+	
+
+	
+	
+
+	
+	
+	
+
+	
+
+	
+	
+
+
+	{
+        "name": "Bíblia Sagrada de Estudo + Harpa",
+        "image": "https://lh3.googleusercontent.com/pag6BcWkN3UjJk2Ko8orw3YOW8AQ8UwtenGJ6iRB2ojfv9W8ilJznIOdis7ZQoCr9yE=h200",
+        "description": "A Bíblia Sagrada com a Harpa em português com vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.jfa"
+    },
+	
+	
+	{
+        "name": "Bíblia Sagrada de Estudo Feminina + Harpa",
+        "image": "https://lh3.googleusercontent.com/nFFiTiSakyVsjqsR46h3KHaYfFPmAbajnMjsS6s5zBNfZpBNTVn9MOso8xfrIsv20b0F=h200",
+        "description": "A Bíblia Sagrada com a Harpa em português com vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.mulher_jfa"
+    },
+
+
+
+	{
+        "name": "Bíblia Sagrada Palavra Viva + Harpa",
+        "image": "https://lh3.googleusercontent.com/z9-IrXjQnjSZxcbcv1gM4rAfQB0wz3RfvPePM5DSX4X2EP-HVVVq-aG41ZuPPEHIwrc=h200",
+        "description": "A Bíblia Sagrada Palavra Viva em Português com a Harpa. Possui vários recursos que tornam a leitura e o estudo mais agradável e fácil.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.viva"
+    },
+	
+	{
+        "name": "Bíblia Palavra Viva Feminina + Harpa",
+        "image": "https://lh3.googleusercontent.com/SkvgDosK-97xf0rPJOeiym9JFKR5IqyxlBwn8cvnwjyZ96VjDifJjRvMEplQY1RF68c=h200",
+        "description": "A Bíblia Feminina Palavra Viva em Português com a Harpa. Possui vários recursos que tornam a leitura e o estudo mais agradável e fácil.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.mulher_viva"
+    },
+	
+
+	
+	{
+        "name": "Caixinha de Promessas",
+        "image": "https://lh3.googleusercontent.com/kjF3HrJhI2M5NeDW29fsXMuz2FoHNWzOdh5zYiFi4mo_Omerxum5N5FhwaHcRnQkvbQ=w200",
+        "description": "Aplicativo que exibe as promessas bíblicas, ideal para trazer alívio e conforto através dos versículos da Bíblia.",
+        "package": "br.com.aleluiah_apps.caixinha.promessas.br"
+    },
+
+	
+	
+	
+	
+	
+	
+	
+	{
+        "name": "Hinário 4 - CCB (capa feminina)",
+        "image": "https://lh3.googleusercontent.com/erQtDej1Kdao2ZacDpx5xjH_BYSeqOnMpDSbCxpEgoavC0X77Cod9SGbjZStDBE8D5s=w200",
+        "description": "Hinário 4 - CCB, com todos os coros e os 450 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.ccb4.feminino"
+    },
+
+	
+	{
+        "name": "Hinário 5 - CCB (capa feminina)",
+        "image": "https://lh3.googleusercontent.com/wO1LyZLEExglKCJ2COtWUMu14ySgpEhlUw7kvHxz3B4cr4mpUyv-FlL6bMfiaNcxG-I=w200",
+        "description": "Hinário 5 - CCB, com todos os coros e os 480 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.ccb5.feminino"
+    },
+	
+
+	
+	{
+        "name": "Nomes Bíblicos e Significados",
+        "image": "https://lh3.googleusercontent.com/KPRZz22yH-l2GbAbKbpBp2P_DuWbcU_gpByUvujUoucNxzT1VNrcJFRcfZmn8yxYEsc=w200",
+        "description": "Conheça a origem e os significados dos nomes masculinos e femininos da Bíblia.",
+        "package": "br.com.aleluiah_apps.dicionario_nomes_biblico.br"
+    },
+
+	
+	{
+        "name": "Versículo Bíblico do Dia",
+        "image": "https://lh3.googleusercontent.com/gX2CZhSPAUhAaENuVCPrWDM_sKWQzWup9kBNBDDZYay1QTxvZVXscmTu4jwGTpd-b7w=w200",
+        "description": "Comece bem o seu dia meditando nos versículos bíblicos e mantenha o seu contato diário com Deus.",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.br"
+    },	
+	
+	
+	
+
+
+	{
+        "name": "Versículo do Dia",
+        "image": "https://lh3.googleusercontent.com/Mcs_244Tuha8dCk445nmPmUTpskxtctOJ0p9IHIl4rz27ZDk0UCMvbntHsSuz1bXNYk=w200",
+        "description": "Medite diariamente nos ensinamentos da Bíblia e tenha um dia melhor e mais inspirado.",
+        "package": "br.com.aleluiah_apps.versiculo_biblico_dia.feminino.br"
+    },
+
+	{
+        "name": "Bíblia Sagrada",
+        "image": "https://lh3.googleusercontent.com/OHhQhB8j07ypwEiQWX2_vFbWCEvJzywOxNUM2lnm3OmAzeA6yA08mRC_BSD1W6GfJVg=w200",
+        "description": "A Bíblia Sagrada em português. Super leve (ocupa pouco espaço na memória), rápida e prática.",
+        "package": "br.com.tunglabs.bibliasagrada"
+    },
+
+
+	
+	
+	
+	
+	
+	
+
+	{
+        "name": "Harpa Cristã Feminina",
+        "image": "https://lh3.googleusercontent.com/lxc-2Kbnz9E55bQ9VSmY4ppUk5jJeIDHdq_kQaLVIzf9pTWbqAGgBHV8ZjBoloxJ_xo=w200",
+        "description": "O hinário Harpa Cristã com capa e design projetado para o público feminino. Edição especial para o público feminino.",
+        "package": "br.com.aleluiah_apps.hinario.harpa_crista.feminino"
+	},	
+
+
+	
+	{
+        "name": "Hinário Metodista",
+        "image": "https://lh3.googleusercontent.com/SGsijzQtaQozEmm1uZpSTMo2tldqEjKSkBWviLpfSaI7YOWgFt_Pqnu5U_T9KItWcTo=w200",
+        "description": "Hinário da Igreja Metodista completo com todos os 500 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.metodista"
+	},	
+
+	{
+        "name": "Hinário Metodista Feminino",
+        "image": "https://lh3.googleusercontent.com/AMg3A_bNd6izKqKOvmelVzudF6OJBYmRHIUNQBPww25vA7VX6GOmXNT-xJQ905lBsQ=w200",
+        "description": "Hinário da Igreja Metodista com capa feminina completo com todos os 500 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.metodista.feminino"
+	},	
+
+	{
+        "name": "Hinário 4 - CCB",
+        "image": "https://lh3.googleusercontent.com/FUzSgEvx4L_mfe5SEYeSoZ4ZPsC6VG3qb-h6uynKUJqI3OHarAlXlu38vAix5IF6lAw=w200",
+        "description": "Hinário 4 - CCB, com todos os coros e os 450 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.ccb4"
+    },
+
+	
+	{
+        "name": "Hinário 5 - CCB",
+        "image": "https://lh3.googleusercontent.com/bl1DEIjcCLQvNXiRtx5gwDC9XokVQ5plpsG0hHKXKpDuLSEFBU5Xy6j0ikbkBb3OYA=w200",
+        "description": "Hinário 5 - CCB, com todos os coros e os 480 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.ccb5"
+    },
+	
+	{
+        "name": "Hinário Culto Cristão",
+        "image": "https://lh3.googleusercontent.com/hu_AAgZencM3kDjQaDhvM1dOgsVcTUumRAPAxhfXdhBlu6wZHAttwErwVAVSgGo9KlM=w200",
+        "description": "Hinário da Igreja Batista completo, com todos os 613 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.culto_cristao"
+	},	
+
+	{
+        "name": "Hinário Culto Cristão Feminino",
+        "image": "https://lh3.googleusercontent.com/WcAKDuna2Z54XqNUvjpQF3sLHutnagxUpfNhvugzl6-BvAG1ENnv2Jhn7KozOkOM7A=w200",
+        "description": "Hinário feminino da Igreja Batista completo, com todos os 613 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.culto_cristao.feminino"
+	},	
+
+
+	{
+        "name": "Hinário Novo Cântico",
+        "image": "https://lh3.googleusercontent.com/dC7EI3jWxHBEe6Clon6g8uTJYwFpqxJmfCuw0ikVnPi3gRcT36Zje_zOjmpbDB2_o0zX=w200",
+        "description": "Hinário da Igreja Presbiteriana completo, com todos os 400 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.novo_cantico"
+	},	
+
+	{
+        "name": "Hinário Novo Cântico Feminino",
+        "image": "https://lh3.googleusercontent.com/C4MWTkEEdTI8u_FF1bXT5QBxc0PXcGROhMwZU0_b7YsjP87yG-lINezNMEgMZBOi3_Vj=w200",
+        "description": "Hinário feminino da Igreja Presbiteriana completo, com todos os 400 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.novo_cantico.feminino"
+	},	
+	
+	
+	{
+        "name": "Cantor Cristão",
+        "image": "https://lh3.googleusercontent.com/FwS2G-wKosXdPiNmCslYkAqoDvaUeuiDvPHHLiledmoIZzOVS9dHXIS_-fKiCPkX2IY=w200",
+        "description": "Cantor Cristão completo com todos os 581 hinos.",
+        "package": "br.com.aleluiah_apps.hinario.cantor_cristao"
+	},	
+
+	{
+        "name": "Cantor Cristão Feminino",
+        "image": "https://lh3.googleusercontent.com/Pqr-PnNHyNfMVkAdpgKstedDJ51ndxWlvDcMDcqPR1VAlfbfAAv803KCBTRIb81HYTc=w200",
+        "description": "Cantor Cristão completo com todos os 581 hinos. Edição especial para o público feminino.",
+        "package": "br.com.aleluiah_apps.hinario.cantor_cristao.feminino"
+	},	
+
+	
+	{
+        "name": "Mulheres na Bíblia",
+        "image": "https://lh3.googleusercontent.com/t4nZuxwDHv0ClkI2UiJmo1cvOpYqzNLxxvCK_D0rfyiJ4CfZ_F9-hNQ4rLGjzJ3G8XA=h200",
+        "description": "Conheça as principais personagens femininas da Bíblia como: Maria, Maria Madalena, Bate-Seba, Dalila, etc.",
+        "package": "br.com.aleluiah_apps.mulheres_biblia"
+    },
+
+	{
+        "name": "Dicionário Bíblico",
+        "image": "https://lh3.googleusercontent.com/ak7Rc28VcEBc7QSNI4kLNy9ybS10Pqgq7vwrhfg9AUCOU2hZfiQj6O1FPyw50LP2pIU=w200",
+        "description": "Dicionário bíblico com mais de 960 palavras disponíveis o seu estudo.",
+        "package": "br.com.aleluiah_apps.dicionario_biblico"
+    },
+	{
+        "name": "Dicionário Bíblico Feminino",
+        "image": "https://lh3.googleusercontent.com/W4UFZyaMvM3l5T-kL4pomw9CY3uSgnC8lGyW1FSYJjEZyYlnMG08jdXtZ0jCprdZXw8=h200",
+        "description": "Dicionário bíblico feminino com mais de 960 palavras disponíveis o seu estudo. Edição especial para o público feminino.",
+        "package": "br.com.aleluiah_apps.dicionario_biblico_feminino"
+    },
+
+    {
+        "name": "Autoajuda Bíblica",
+        "image": "https://lh5.ggpht.com/q0VbqfvqiCXPBieYrTLW8yCR_cd_rkcGaYbGEGAFRHgt9JOWAB8Hvu7IkTdP0oIiDA=w200",
+        "description":"Tenha acesso a uma palavra de paz e conforto para os momentos de medo, insegurança, depressão, tristeza, dor, ansiedade, depressão e culpa.",
+		"package": "br.com.android.ajudabiblica"
+        
+    },
+	
+	
+	
+	
+	{
+        "name": "Bíblia Sagrada com Linguagem Atualizada Feminina + Harpa",
+        "image": "https://lh3.googleusercontent.com/DnKE7831gYm5iKX5X27hJglUHFQamrxgR9RCU5auMOUopJP9bpyLB2L66MRlZp0gVIU=w200",
+        "description": "A Bíblia Feminina com linguagem atualizada, possui uma linguagem mais simples e fácil de entender. Recomendada para os novos convertidos. Possui vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.mulher_ntlh"
+    },
+
+	{
+        "name": "Bíblia Sagrada com Linguagem Atualizada + Harpa",
+        "image": "https://lh3.googleusercontent.com/y_4WXtd1ZXllddLa-6xoo_b2g8v3iR2UrdZoPX34n70I4mwWuArIa1OgjbrrmQttj0oQ=h200",
+        "description": "A Bíblia Sagrada com linguagem atualizada, possui uma linguagem mais simples e fácil de entender. Recomendada para os novos convertidos. Possui vários recursos que tornam a leitura e os estudos mais agradáveis.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.ntlh"
+    },
+
+	
+	
+	
+    {
+        "name": "Mensagem Bíblica Orvalho",
+        "image": "https://lh5.ggpht.com/rsh442WpzS5szUj11XFBZCFKoNUfeHWavvCiVay8fOHGTbWt2Ub6icXimaWkIyXvALE=w200",
+        "description": "Tenha acesso a centenas de versículos chaves da Bíblia e compartilhe através das redes sociais. ",
+        "package": "br.com.tunglabs.mensagem.biblica.orvalho.lite.portugues"
+    },
+    {
+        "name": "Salmos",
+        "image": "https://lh3.ggpht.com/YGKEDZ3-Ols_uuKns0raj9BX-fSAVbNUCFDbUNbz0EnIihm3qYhIQsgD-aa-o4nKkGs=h200",
+        "description": "Estude e medite sobre os capítulos e versículos do livro de Salmos da Bíblia. Excelente para a reflexão e meditação diária.",
+        "package": "br.com.tunglabs.frases.br.com.tunglabs.frases.salmos"
+    },
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+        "name": "Santa Biblia Reina Valera 1960 Femenino",
+        "image": "https://lh3.googleusercontent.com/Yyg-fx6C3Vw6mwOUq-xhJF6kd9PlzsKt0CoXzvyNowzziWP2qeEnwE9Tc0ArgCEXFUw=h200",
+        "description": "Santa Biblia Reina Valera 1960 Femenino.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.reina_valera_1960_es_mujer"
+    },		
+
+	{
+        "name": "Santa Biblia Reina Valera 1960",
+        "image": "https://lh3.googleusercontent.com/DU4eHtK9hkHddbexVFmGtfCHfOoF81f1Q-awfW9bToEu_BmjtY5Qn_ohTuXVxFAhiTI=h200",
+        "description": "Santa Biblia Reina Valera 1960.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.reina_valera_1960_es"
+    },		
+
+	{
+        "name": "Santa Biblia NVI Femenino",
+        "image": "https://lh3.googleusercontent.com/6CnMYL88dVeP6jfJJzzdfL5zpXjMx5S7h0vqNtHp0qo_nzvbLrkz6AeO2efunJpyKMU=h200",
+        "description": "Santa Biblia Femenino.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.nvi_es_mujer"
+    },		
+
+	{
+        "name": "Santa Biblia NVI",
+        "image": "https://lh3.googleusercontent.com/bQhghJBpkZtHyCSC6Yrn1bvk4iQzXkSq1O__vcIIIdp3OZpTdwiVSl4yE3GpWrnM46bQ=h200",
+        "description": "Santa Biblia.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.nvi_es"
+    },		
+	
+	
+	
+	{
+        "name": "Santa Biblia Reina Valera",
+        "image": "https://lh3.googleusercontent.com/_KuZXUahBy87dAQogMim3vPgZkZwu7RNCb_MZGI4nkBHstYGK9WR0ovapFVVesmtlAg=w200",
+        "description": "Santa Biblia Reina Valera offline para Android.",
+        "package": "br.com.tunglabs.bibliasagrada.reinavalera"
+    },
+
+	{
+        "name": "Santa Biblia para la Mujer",
+        "image": "https://lh6.ggpht.com/ZzXaBZpr38y2Y_DJUWNx4GN9ILvH0tb4U1XJTcqb6_PydWojPW8qCKEz9otPxZ3HIA=w200",
+        "description": "Santa Biblia para la muyjer en español",
+        "package": "br.com.tunglabs.bibliasagrada.reinavalera.mujer"
+    },
+
+	{
+        "name": "Reflexiones Bíblicas",
+        "image": "https://lh4.ggpht.com/xbhMQXDzFUqMpgxcIIzCApY1nfx-9PfjxWBYCkkfAu-Gy972ntuBife5O1vy=w200",
+        "description": "Con esta aplicación, se puede reflexionar sobre las enseñanzas de cada versículo de la Biblia al azar y generar un nuevo mensaje.",
+        "package": "br.com.tunglabs.reflexoes.biblica.lite.espanhol"
+	},	
+
+	{
+        "name": "Auto-Ayuda Bíblica",
+        "image": "https://lh3.ggpht.com/MvVsIOGnjlW162AWn5Q3mIf0ik5si1lx9_mCPnH29_2ta9FKrnAvMxQyb0fM6VJV2PXk=w200",
+        "description": "A través de la aplicación de la Biblia de Auto-Ayuda, puede tener acceso a una palabra de paz y confort para los momentos de dudas, problemas y dificultades.",
+        "package": "br.com.android.ajudabiblica.lite.es"
+	},	
+
+	{
+        "name": "Rocío Mensaje Bíblico",
+        "image": "https://lh6.ggpht.com/-2EV3jGdzaNEjJGFkPOv4yP0MY-MvM9oCAWHZFAca_3ZD3WnWqEyDGZmJ8ua341-fUE=w200",
+        "description": "Tener acceso instantáneo a los principales versículos de la Biblia y compartir a través de correo electrónico, Bluetooth, Twitter o WhatsApp.",
+        "package": "br.com.tunglabs.mensagem.biblica.orvalho.lite.espanhol"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+        "name": "The Holy Bible for Study",
+        "image": "https://lh3.googleusercontent.com/6saf9GNrLUUv89Ei6oZvxdy-X_fodQo2Dnxy9DaJ8Zfjkr-p41s4KZuluWQyJ6Frvw=w200",
+        "description": "The Holy Bible for Study.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.en"
+    },
+	
+	{
+        "name": "The Holy Bible for Woman",
+        "image": "https://lh3.googleusercontent.com/V1zSASRO-1wBt0EL_YWWh1a_KLsDSkO3YG93vniEIM2iKWksORbysc0UYzuvscYnzCE=w200",
+        "description": "The Holy Bible for Woman.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.en_woman"
+    },
+
+	{
+        "name": "The Holy Bible Offline",
+        "image": "https://lh3.googleusercontent.com/_rfSHVngw_6cLROqlv64cZ1IYT9Rwfb_mxfx6146I_uugLQp2Mdx3lAdQRyKiDNTHFoh=w200",
+        "description": "The Holy Bible Offline.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.offline_en"
+    },
+
+	{
+        "name": "The Holy Bible Offline for Woman",
+        "image": "https://lh3.googleusercontent.com/pXVqEzXnPZK2hfuH_cMZ249K_8PZGzhZVe836Cc1P8YjvPOQqtUw1K5aRk7FBrDZDZ4=h200",
+        "description": "The Holy Bible Offline for Woman.",
+        "package": "br.com.aleluiah_apps.bibliasagrada.offline_en_woman"
+    },
+
+	
+	
+
+	
+	
+	
+	
+	{
+        "name": "Holy Bible KJV",
+        "image": "https://lh3.googleusercontent.com/R-3VUpvIKwdlzOmYOsPLmCF3cgVihMJyzT6wz3Jrz36kZ-6PUyto4K26GahVQPxzyw=w200",
+        "description": "Holy Bible KJV- King James Version App for Android.",
+        "package": "br.com.tunglabs.bibliasagrada.kjv"
+    },
+
+	{
+        "name": "Holy Bible for Woman",
+        "image": "https://lh6.ggpht.com/8to5D7-IUFprGrRFxe7rMFXUWOT9PeB0Hir85XV16qVU-_v3xsBldxqDp2uB363F_A=w200",
+        "description": "Holy Bible for Woman app for Android devices.",
+        "package": "br.com.tunglabs.bibliasagrada.kjv.women"
+    },
+
+	{
+        "name": "Daily Bible Verses",
+        "image": "https://lh6.ggpht.com/hIdYHSBL9GLpoHD2H_x-TzM2fjhpHZmIlq7n3AKcKAit_fEZqvtb-FcOXMmWOd6J3fk4=w200",
+        "description": "Have instant access to hundreds of key Bible verses and share them through this great app.",
+        "package": "br.com.tunglabs.mensagem.biblica.orvalho.lite.english"
+	},	
+
+	{
+        "name": "Biblical Self Help",
+        "image": "https://lh3.ggpht.com/Ty73mAMTafatAvfkQzF9ZRJbfY042TI1Xu-m0KGS6Hbv1i18g8DtG8goFqB2tllSpDw=w200",
+        "description": "Through the application of Self-Help Bible, you can have access to a word of peace and comfort for the moments of doubts, problems and difficulties.",
+        "package": "br.com.android.ajudabiblica.lite.en"
+	},	
+
+	{
+        "name": "Daily Biblical Meditations",
+        "image": "https://lh4.ggpht.com/zqz2SrStwbSsUFiaMCjDUVJzhNfI7tCTWHHE6S0ZtPnKz_xxxAmo8eprP9xAqA=w200",
+        "description": "This app allow you to reflect on the teachings from each Bible verse and randomly generate a new message.",
+        "package": "br.com.tunglabs.reflexoes.biblica.lite.ingles"
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+    ]

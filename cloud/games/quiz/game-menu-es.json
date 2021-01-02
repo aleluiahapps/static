@@ -1,0 +1,23 @@
+﻿[
+
+	{
+        "name": "Quiz",
+        "image": "",
+        "description": "",
+        "package": "",
+		"json": "",
+		"category":"quiz",
+		"clazz" : "QuizActivity"
+	},	
+
+	{
+        "name": "Rompecabezas",
+        "image": "",
+        "description": "",
+        "package": "",
+		"json": "",
+		"category":"jigsaw",
+		"clazz" : "JigsawPuzzleMainGameActivity"
+    }
+	
+]

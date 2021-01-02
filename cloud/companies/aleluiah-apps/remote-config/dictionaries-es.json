@@ -1,0 +1,60 @@
+[
+  {
+    "table-name": "dicionario_es",
+    "dictionary-app-name": "Diccionario Bíblico",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  },
+  {
+    "table-name": "nomes_Jesus_es",
+    "dictionary-app-name": "Nombres y Títulos de Jesús",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  }
+  ,
+  {
+    "table-name": "milagres_Jesus_es",
+    "dictionary-app-name": "Los Milagros de Jesús",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  },  
+  {
+    "table-name": "dez_mandamentos_es",
+    "dictionary-app-name": "Los Diez Mandamientos",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  }
+]
+]

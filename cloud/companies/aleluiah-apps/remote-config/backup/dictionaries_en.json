@@ -1,0 +1,16 @@
+[
+  {
+    "table-name": "dicionario",
+    "dictionary-app-name": "Bible Dictionary",
+    "icon": "icon-object",
+    "show-title-numbers": "false",
+    "show-title": "true",
+    "enable-add-to-favorites": "true",
+    "allow-multilevel": "true",
+    "hide-directional-buttons": "false",
+    "center-text-horizontal": "false",
+    "replace-title": "false",
+    "new-title": "null",
+    "show-pagination": "false"
+  }
+]

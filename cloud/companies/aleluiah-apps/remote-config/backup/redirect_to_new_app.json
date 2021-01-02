@@ -1,0 +1,40 @@
+[
+	{
+	
+		"redirect-active" : "false",
+		"redirect-package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		"redirect-redirectToPackage": "br.com.tunglabs.bibliasagrada.mulher"
+
+		"redirect-name-br": "Bíblia de Estudo Edição Especial",		
+        "redirect-image-br": "https://lh3.googleusercontent.com/jkVswDEk4ViQoD1EMv1rcPgkRcHTQm-X6abOagq7YhNu6JZ15XOPxIXaMql10fPPQg=s180",
+        "redirect-description-br": "Este aplicativo será descontinuado pela Aleluiah Apps, mas daremos continuidade a esse aplicativo com novas correções e melhorias através de um novo app. Clique abaixo para instalar o novo app.",
+
+		"redirect-name-en": "Bíblia Feminina",		
+        "redirect-image-en": "https://lh4.googleusercontent.com/-zhKHOWINmFQ/AAAAAAAAAAI/AAAAAAAAAAA/e-ewkkexo20/s128-c-k/photo.jpg",
+        "redirect-description-en": "This app will be discontinued by Aleluiah Apps, but we will continue this app with new fixes and improvements through a new app. Click below to install the new app.",
+
+		"redirect-name-es": "Bíblia Feminina",		
+        "redirect-image-es": "https://lh4.googleusercontent.com/-zhKHOWINmFQ/AAAAAAAAAAI/AAAAAAAAAAA/e-ewkkexo20/s128-c-k/photo.jpg",
+        "redirect-description-es": "Aleluiah Apps descontinuará esta aplicación, pero continuaremos con nuevas correcciones y mejoras a través de una nueva aplicación. Haga clic a continuación para instalar la nueva aplicación."
+    },
+	
+	{
+	
+		"redirect-active" : "true",
+		"redirect-package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		"redirect-redirectToPackage": "br.com.tunglabs.bibliasagrada.mulher"
+
+		"redirect-name-br": "Bíblia de Estudo Edição Especial",		
+        "redirect-image-br": "https://lh3.googleusercontent.com/jkVswDEk4ViQoD1EMv1rcPgkRcHTQm-X6abOagq7YhNu6JZ15XOPxIXaMql10fPPQg=s180",
+        "redirect-description-br": "Este aplicativo será descontinuado pela Aleluiah Apps, mas daremos continuidade a esse aplicativo com novas correções e melhorias através de um novo app. Clique abaixo para instalar o novo app.",
+
+		"redirect-name-en": "Bíblia Feminina",		
+        "redirect-image-en": "https://lh4.googleusercontent.com/-zhKHOWINmFQ/AAAAAAAAAAI/AAAAAAAAAAA/e-ewkkexo20/s128-c-k/photo.jpg",
+        "redirect-description-en": "This app will be discontinued by Aleluiah Apps, but we will continue this app with new fixes and improvements through a new app. Click below to install the new app.",
+
+		"redirect-name-es": "Bíblia Feminina",		
+        "redirect-image-es": "https://lh4.googleusercontent.com/-zhKHOWINmFQ/AAAAAAAAAAI/AAAAAAAAAAA/e-ewkkexo20/s128-c-k/photo.jpg",
+        "redirect-description-es": "Aleluiah Apps descontinuará esta aplicación, pero continuaremos con nuevas correcciones y mejoras a través de una nueva aplicación. Haga clic a continuación para instalar la nueva aplicación."
+    },
+
+]

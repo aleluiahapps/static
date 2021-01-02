@@ -1,0 +1,43 @@
+[
+	{
+		
+		"campaign-to-package": "all",
+		"campaign-date": "19/02/2020",
+		"campaign-active" : "true", 		
+		"campaign-for-package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		
+		"campaign-name-br": "Bíblia Almeida + Games Cristãos Edição Especial",		
+        "campaign-image-url-br": "https://play-lh.googleusercontent.com/8Y480ulKTtT9TM3Fevhd3TfikBkAFV4QLB_TJ7oGw_HlkZa5OfzCK_YackIM-1TtNQ=s180",
+        "campaign-description-br": "Baixe este aplicativo agora.",
+        
+		"campaign-name-en": "Holy Bible + Christian games- Special Edition",		
+        "campaign-image-url-en": "https://play-lh.googleusercontent.com/InW9jJSOwuuR6vlfqWFd4EuH9GAAkZrxcPeh66sytpKU9KAeUKkJPrfiUy3WCb2Z3t8=s180",
+        "campaign-description-en": "Download this app Now.",
+    
+		"campaign-name-es": "Biblia Sagrada + Games Cristianos- Edición Especial",		
+        "campaign-image-url-es": "https://play-lh.googleusercontent.com/a2W_RH1CR63ObYYa9AaD_Ru_1KQzkxK38xyIyXF5MsD04kvVF_mv667iO-ZL3q70Lu0=s180",
+        "campaign-description-es": "Descarga esta aplicación ahora"
+
+    },
+	
+	{
+		"campaign-to-package": "br.com.aleluiah_apps.bibliasagrada.almeida",
+		"campaign-date": "19/02/2020",
+		"campaign-active" : "false", 
+		"campaign-for-package": "br.com.aleluiah_apps.versiculo_biblico_dia.feminino.br",
+		
+		"campaign-name-br": "Bíblia Almeida",		
+        "campaign-image-url-br": "https://lh3.googleusercontent.com/jkVswDEk4ViQoD1EMv1rcPgkRcHTQm-X6abOagq7YhNu6JZ15XOPxIXaMql10fPPQg=s180-rw",
+        "campaign-description-br": "Baixe este aplicativo agora.",
+        
+		"campaign-name-en": "Holy Bible Special Edition",		
+        "campaign-image-url-en": "https://lh3.googleusercontent.com/W9diQMTHzY3l5dM94PWU3thzHsCY2inEu_mRiZ_MuQCsT8IupWoWU9nKre9T-_CXIG4=s180-rw",
+        "campaign-description-en": "Download this app Now.",
+    
+		"campaign-name-es": "Santa Biblia de Estudio",		
+        "campaign-image-url-es": "https://lh3.googleusercontent.com/r5GMe0QffogiL9QYnA2Db-4bez6rhgRZ1z9ccFbPbNeqE1OaCeAGwB2O-gddeggpnJw=s180-rw",
+        "campaign-description-es": "Descarga esta aplicación ahora"
+
+    }
+
+]

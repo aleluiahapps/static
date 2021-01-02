@@ -1,0 +1,482 @@
+[
+  {
+    "locale": "pt",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "ALM",
+    "translation": "Almeida",
+    "language-en": "Portuguese",
+    "language-es": "Portugués",
+    "language-pt": "Português"
+  },
+  {
+    "locale": "pt",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "LAT",
+    "translation": "Linguagem Atual",
+    "language-en": "Portuguese",
+    "language-es": "Portugués",
+    "language-pt": "Português"
+  },
+  {
+    "locale": "pt",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "VIV",
+    "translation": "Palavra Viva",
+    "language-en": "Portuguese",
+    "language-es": "Portugués",
+    "language-pt": "Português"
+  },
+  {
+    "locale": "pt",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "JFA",
+    "translation": "João F. Almeida",
+    "language-en": "Portugués",
+    "language-pt": "Português",
+    "language-es": "Portugués"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "STD",
+    "translation": "Standard",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "DRB",
+    "translation": "Darby Version",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "KJV",
+    "translation": "King James Version",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "ASV",
+    "translation": "American Standard Version",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "WBT",
+    "translation": "Webster´s Bible",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "WEB",
+    "translation": "World English Bible",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "en",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "YLT",
+    "translation": "Young´s Literal Translation",
+    "language-en": "English",
+    "language-pt": "Inglês",
+    "language-es": "Inglés"
+  },
+  {
+    "locale": "es",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "RVES",
+    "translation": "Reina Valera",
+    "language-en": "Spanish",
+    "language-pt": "Espanhol",
+    "language-es": "Español"
+  },
+  {
+    "locale": "zh",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "UNIS",
+    "translation": "Chinese Simplified",
+    "language-en": "Chinese",
+    "language-pt": "Chinês",
+    "language-es": "Chino"
+  },
+  {
+    "locale": "zh",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "NCV",
+    "translation": "Chinese Traditional",
+    "language-en": "Chinese",
+    "language-pt": "Chinês",
+    "language-es": "Chino"
+  },
+  {
+    "locale": "ko",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "KOR",
+    "translation": "Korean",
+    "language-en": "Korean",
+    "language-pt": "Coreano",
+    "language-es": "Coreano"
+  },
+  {
+    "locale": "ar",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "SVD",
+    "translation": "Smith and Van Dyke",
+    "language-en": "Arabic",
+    "language-pt": "Árabe",
+    "language-es": "Árabe"
+  },
+  {
+    "locale": "ja",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "JPN",
+    "translation": "Japanese",
+    "language-en": "Japanese",
+    "language-pt": "Japonês",
+    "language-es": "Japonês"
+  },
+  {
+    "locale": "af",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "AFR",
+    "translation": "Afrikaans",
+    "language-en": "Afrikaans",
+    "language-pt": "Afrikaans",
+    "language-es": "Afrikaans"
+  },
+  {
+    "locale": "da",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "DAN",
+    "translation": "Danish",
+    "language-en": "Danish",
+    "language-pt": "Dinamarquês",
+    "language-es": "Danés"
+  },
+  {
+    "locale": "de",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "LUTN",
+    "translation": "Luther (1912)",
+    "language-en": "German",
+    "language-pt": "Alemão",
+    "language-es": "Alemán"
+  },
+  {
+    "locale": "de",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "ELBN",
+    "translation": "Elberfelder (1905)",
+    "language-en": "German",
+    "language-pt": "Alemão",
+    "language-es": "Alemán"
+  },
+  {
+    "locale": "de",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "ELB",
+    "translation": "Elberfelder (1871)",
+    "language-en": "German",
+    "language-pt": "Alemão",
+    "language-es": "Alemán"
+  },
+  {
+    "locale": "de",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "LUT",
+    "translation": "Luther (1545)",
+    "language-en": "German",
+    "language-pt": "Alemão",
+    "language-es": "Alemán"
+  },
+  {
+    "locale": "fi",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "FPR",
+    "translation": "Pyhä Raamattu (1933/1938)",
+    "language-en": "Finnish",
+    "language-pt": "Finlandês",
+    "language-es": "Finlandés"
+  },
+  {
+    "locale": "fi",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "FIN",
+    "translation": "Finnish Bible (1776)",
+    "language-en": "Finnish",
+    "language-pt": "Finlandês",
+    "language-es": "Finlandés"
+  },
+  {
+    "locale": "fr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "OST",
+    "translation": "Ostervald (1996)",
+    "language-en": "French",
+    "language-pt": "Francês",
+    "language-es": "Francés"
+  },
+  {
+    "locale": "fr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "LSG",
+    "translation": "Louis Segond (1910)",
+    "language-en": "French",
+    "language-pt": "Francês",
+    "language-es": "Francés"
+  },
+  {
+    "locale": "fr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "MRT",
+    "translation": "Martin (1744)",
+    "language-en": "French",
+    "language-pt": "Francês",
+    "language-es": "Francés"
+  },
+  {
+    "locale": "it",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "RIV",
+    "translation": "Riveduta",
+    "language-en": "French",
+    "language-pt": "Francês",
+    "language-es": "Francés"
+  },
+  {
+    "locale": "it",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "DIO",
+    "translation": "Giovanni Diodatti",
+    "language-en": "Italian",
+    "language-pt": "Italiano",
+    "language-es": "Italiano"
+  },
+  {
+    "locale": "iw",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "MOD",
+    "translation": "Modern",
+    "language-en": "Hebrew",
+    "language-pt": "Hebraico",
+    "language-es": "Hebreo"
+  },
+  {
+    "locale": "iw",
+    "onlyOT": "true",
+    "onlyNT": "false",
+    "abbreviation": "ALE",
+    "translation": "Old Test. Aleppo Codex",
+    "language-en": "Hebrew",
+    "language-pt": "Hebraico",
+    "language-es": "Hebreo"
+  },
+  {
+    "locale": "no",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "DNB",
+    "translation": "Det Norsk Bibelselskap (1930)",
+    "language-en": "Norwegian",
+    "language-pt": "Norueguês",
+    "language-es": "Noruego"
+  },
+  {
+    "locale": "sv",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "SWE",
+    "translation": "Swedish (1917)",
+    "language-en": "Swedish",
+    "language-pt": "Sueco",
+    "language-es": "Sueco"
+  },
+  {
+    "locale": "tr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "TUR",
+    "translation": "Turkish",
+    "language-en": "Turkish",
+    "language-pt": "Turco",
+    "language-es": "Turco"
+  },
+  {
+    "locale": "vi",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "VIE",
+    "translation": "Vietnamese",
+    "language-en": "Vietnam",
+    "language-pt": "Vietnamita",
+    "language-es": "Vietnamita"
+  },
+  {
+    "locale": "el",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "MOD",
+    "translation": "Mordern",
+    "language-en": "Greek",
+    "language-pt": "Grego",
+    "language-es": "Griego"
+  },
+  {
+    "locale": "el",
+    "onlyOT": "false",
+    "onlyNT": "true",
+    "abbreviation": "REC",
+    "translation": "Textus Receptus (1550/1894)",
+    "language-en": "Greek",
+    "language-pt": "Grego",
+    "language-es": "Griego"
+  },
+  {
+    "locale": "hu",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "KAR",
+    "translation": "Karoli",
+    "language-en": "Hungarian",
+    "language-pt": "Húngaro",
+    "language-es": "Húngaro"
+  },
+  {
+    "locale": "hi",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "HIN",
+    "translation": "Hindi",
+    "language-en": "Hindi",
+    "language-pt": "Hindi",
+    "language-es": "Hindi"
+  },
+  {
+    "locale": "ro",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "COR",
+    "translation": "Cornilescu",
+    "language-en": "Romanian",
+    "language-pt": "Romeno",
+    "language-es": "Rumano"
+  },
+  {
+    "locale": "ru",
+    "onlyOT": "true",
+    "onlyNT": "false",
+    "abbreviation": "MAK",
+    "translation": "Makarij Transtaltion",
+    "language-en": "Russian",
+    "language-pt": "Russo",
+    "language-es": "Ruso"
+  },
+  {
+    "locale": "ru",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "SYN",
+    "translation": "Synodal Translation 1876",
+    "language-en": "Russian",
+    "language-pt": "Russo",
+    "language-es": "Ruso"
+  },
+  {
+    "locale": "uk",
+    "onlyOT": "false",
+    "onlyNT": "true",
+    "abbreviation": "UKR",
+    "translation": "NT - P. Kulish 1871",
+    "language-en": "Ukrainian",
+    "language-pt": "Ucraniano",
+    "language-es": "Ucraniano"
+  },
+  {
+    "locale": "sr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "NVU",
+    "translation": "Nova Vulgata",
+    "language-en": "Latin",
+    "language-pt": "Latim",
+    "language-es": "Latín"
+  },
+  {
+    "locale": "sr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "VCL",
+    "translation": "Vulgata Clementina 1871",
+    "language-en": "Latin",
+    "language-pt": "Latim",
+    "language-es": "Latín"
+  },
+  {
+    "locale": "cs",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "BKR",
+    "translation": "Czech",
+    "language-en": "Czech",
+    "language-pt": "Tcheco",
+    "language-es": "Checo"
+  },
+  {
+    "locale": "hr",
+    "onlyOT": "false",
+    "onlyNT": "false",
+    "abbreviation": "CRO",
+    "translation": "Croatian",
+    "language-en": "Croatian",
+    "language-pt": "Croata",
+    "language-es": "Croata"
+  }
+]

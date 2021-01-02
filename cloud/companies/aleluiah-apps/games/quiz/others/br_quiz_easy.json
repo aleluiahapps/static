@@ -1,0 +1,47 @@
+[
+	{
+		"i-url": "",
+        "a-url": "",
+		"q": "Quantas pragas foram enviadas ao Egito?",
+		"a": "1",
+		"alt": {"7 Pragas", "10 Pragas", "3 Pragas",
+		"c": "O cara foi o Pedrão"
+    },
+	
+	{
+		"i-url": "",
+        "a-url": "",
+		"q": "Quem foi lançado na cova dos leões?",
+		"a": "2",
+		"alt": ["Paulo", "José", "Daniel"],
+		"c": ""
+    },
+	
+	{
+		"i-url": "",
+        "a-url": "",
+		"q": "Qual instrumento Davi gostava de tocar?",
+		"a": "1",
+		"alt": ["Tambor", "Harpa", "Flauta"],
+		"c": ""
+    },
+	
+	{
+		"i-url": "",
+        "a-url": "",
+		"q": "Quando Jesus nasceu, onde Ele foi colocado?",
+		"a": "1",
+		"alt": ["Foi colocado em uma cama.", "Foi colocado em uma manjedoura.", "Foi colocado em um trono."],
+		"c": ""
+    },
+	
+	{
+		"i-url": "",
+        "a-url": "",
+		"q": "Quando a mulher com fluxo de sangue tocou nas vestes de Jesus, no que ela pensava?",
+		"a": "0",
+		"alt": ["Se eu tão somente tocar em seu manto, ficarei curada.", "Tenho que chamar a atenção de Jesus para ser curada", "Tenho que interromper o caminho de Jesus"],
+		"c": ""
+    }
+
+]
